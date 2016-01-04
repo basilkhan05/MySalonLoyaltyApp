@@ -1,4 +1,4 @@
-# My Salon Loyalty App
+# [My Salon Loyalty App](http://basilkhan.ca/projects/mysalonloyaltyapp/)
 A prototype for replacement of Loyalty Punch cards with basic customer tracking options. This tool was built using PHP with mySQL database. 
 The tool also use the Google Maps API to track the users on a map based on their postal code upon signup.
 
